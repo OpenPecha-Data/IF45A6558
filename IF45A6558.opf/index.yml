@@ -1,0 +1,35 @@
+id: b41693d5a95947bfbc18541d832c8fc6
+annotation_type: index
+revision: '00001'
+annotations:
+  8f90f3e05c0545b0bf1853d505d936ac:
+    base: DEA3.txt
+    Chapters:
+    - title: nidāna
+      span:
+        start: 0
+        end: 10
+    - title: §1-20
+      span:
+        start: 11
+        end: 230
+    - title: §21-40
+      span:
+        start: 231
+        end: 1514
+    - title: §41-60
+      span:
+        start: 1515
+        end: 3652
+    - title: §61-80
+      span:
+        start: 3653
+        end: 5853
+    - title: §81-100
+      span:
+        start: 5854
+        end: 8434
+    - title: colophon
+      span:
+        start: 8435
+        end: 8465
